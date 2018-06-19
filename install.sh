@@ -38,3 +38,5 @@ git clone https://github.com/plasticboy/vim-markdown.git ~/.vim/bundle/vim-markd
 
 # Back home
 cd
+
+. ~/.bashrc
