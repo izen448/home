@@ -1,5 +1,5 @@
-# My Personal VIM Configuration
+# Basic Home Config
 ---
 ## To install:
 
-`git clone https://github.com/izen448/vim.git && cd ./vim && . ./install.sh`
+`git clone https://github.com/izen448/home.git && cd ./vim && . ./install.sh`
