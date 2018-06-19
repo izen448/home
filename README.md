@@ -2,4 +2,4 @@
 ---
 ## To install:
 
-`git clone https://github.com/izen448/home.git && cd ./vim && . ./install.sh`
+`git clone https://github.com/izen448/home.git && cd ./home && . ./install.sh`
